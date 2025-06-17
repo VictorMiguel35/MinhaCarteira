@@ -1,0 +1,23 @@
+.wallet-container {
+    max-width: 420px;
+}
+
+.chart-bar {
+    width: 60px;
+}
+
+.bar-income {
+    height: 120px;
+}
+
+.bar-expense {
+    height: 40px;
+}
+
+.grafico {
+    gap: 2.5rem;
+}
+
+.mainTitle {
+    color: #4f4f4f;
+}
